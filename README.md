@@ -1,6 +1,6 @@
 # intro-to-data-analysis
 
-##Codecademy: Introduction to Data Analysis Capstone Project
+## Codecademy: Introduction to Data Analysis Capstone Project
 
 For this project, I had to act as a data analyst for the National Park Service. I helped them analyze data on endangered species from several different parks.
 
