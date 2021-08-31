@@ -6,6 +6,6 @@ For this project, I had to act as a data analyst for the National Park Service. 
 
 "The National Parks Service would like to perform some data analysis on the conservation statuses of these species and to investigate if there are any patterns or themes to the types of species that become endangered."
 
-Capstone_kgereb.pdfis the submitted presentation.
+`Capstone_kgereb.pdf` is the submitted presentation.
 
 
